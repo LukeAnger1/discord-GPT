@@ -1,3 +1,7 @@
+# nodejs stuff
 node_modules/
 package-lock.json
 package.json
+
+# python environment
+chatgpt_env/
